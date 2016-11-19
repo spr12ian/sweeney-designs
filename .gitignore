@@ -1,0 +1,12 @@
+/languages
+/mu-plugins
+/plugins/akismet
+/plugins/really-simple-ssl
+/plugins/hello.php
+/plugins/index.php
+/themes/twentyfifteen
+/themes/twentyfourteen
+/themes/twentysixteen
+/themes/index.php
+index.php
+*.gz
